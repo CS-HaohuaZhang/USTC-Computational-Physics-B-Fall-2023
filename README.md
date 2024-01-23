@@ -3,4 +3,5 @@
 万个数据样本，包含信号和噪声（即标签）。每个数据点对应实验末态的 18 特征。利用深度神经元网络来研究此分类问题。
 
 [超对称现象] https://www.nature.com/articles/ncomms5308
+
 [模拟数据集] https://rec.ustc.edu.cn/share/46432b70-9888-11ee-b072-792324c0c730
